@@ -1,0 +1,1 @@
+tapply(mtcars$mpg,mtcars$cyl,max)

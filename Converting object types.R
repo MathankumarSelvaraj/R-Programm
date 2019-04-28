@@ -1,0 +1,20 @@
+#Functions for converting object types
+a=99.9
+b=is.numeric(a)
+print(b)
+as.character(a)
+as.logical(a)
+as.integer(a)
+as.complex(a)
+as.raw(a)
+as.data.frame(a)
+as.factor(a)
+as.array(a)
+as.list(a)
+c=as.Date('2002-12-12')
+class(c)
+d=as.null(a)
+print(d)
+class(d)
+b='99.9'
+as.numeric(b)

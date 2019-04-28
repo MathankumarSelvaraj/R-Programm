@@ -1,0 +1,13 @@
+a=c(11,11,99)
+b=c(9,9,2)
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a^b)
+print(a**b)
+print(a%%b)
+a**(1/2)
+a**(1/3)
+a**(1/8)
